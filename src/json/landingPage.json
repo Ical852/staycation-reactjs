@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "travelers": 80409,
+    "treasures": 882,
+    "cities": 1492
+  },
+  "mostPicked": [
+    {
+      "_id": "mostpicked1",
+      "name": "Blue Origin Fams",
+      "type": "Apartment",
+      "imageUrl": "/images/mostpicked1.jpg",
+      "country": "South Korea",
+      "city": "Seoul Flore",
+      "price": "80",
+      "unit": "night"
+    },
+    {
+      "_id": "mostpicked2",
+      "name": "Ocean Land",
+      "type": "Hotel",
+      "imageUrl": "/images/mostpicked2.jpg",
+      "country": "Indonesia",
+      "city": "Bogor",
+      "price": "52",
+      "unit": "night"
+    },
+    {
+      "_id": "mostpicked3",
+      "name": "Vinna Vill",
+      "type": "Rumah",
+      "imageUrl": "/images/mostpicked3.jpg",
+      "country": "South Korea",
+      "city": "Seoul Flore",
+      "price": "80",
+      "unit": "night"
+    },
+    {
+      "_id": "mostpicked4",
+      "name": "Stark House",
+      "type": "Apartment",
+      "imageUrl": "/images/mostpicked4.jpg",
+      "country": "South Korea",
+      "city": "Seoul Flore",
+      "price": "80",
+      "unit": "night"
+    },
+    {
+      "_id": "mostpicked5",
+      "name": "Bobox",
+      "type": "Apartment",
+      "imageUrl": "/images/mostpicked5.jpg",
+      "country": "South Korea",
+      "city": "Seoul Flore",
+      "price": "80",
+      "unit": "night"
+    }
+  ],
+  "categories": [
+    {
+      "_id": "category1",
+      "name": "House with beauty backyard",
+      "items": [
+        {
+          "_id": "categori1_1",
+          "name": "Tabby Town",
+          "imageUrl": "/images/category1.jpg",
+          "country": "Indonesia",
+          "city": "Gunung Batu",
+          "isPopular": true
+        },
+        {
+          "_id": "categori1_2",
+          "name": "Anggana",
+          "imageUrl": "/images/category2.jpg",
+          "country": "Indonesia",
+          "city": "Bogor",
+          "isPopular": false
+        },
+        {
+          "_id": "categori1_3",
+          "name": "Seattle Rain",
+          "imageUrl": "/images/category3.jpg",
+          "country": "Indonesia",
+          "city": "Jakarta",
+          "isPopular": false
+        },
+        {
+          "_id": "categori1_4",
+          "name": "Wodden Pit",
+          "imageUrl": "/images/category4.jpg",
+          "country": "Indonesia",
+          "city": "Wonosobo",
+          "isPopular": false
+        }
+      ]
+    },
+    {
+      "_id": "category2",
+      "name": "Hotels with large living room",
+      "items": [
+        {
+          "_id": "category2_1",
+          "name": "Green Park",
+          "imageUrl": "/images/category5.jpg",
+          "country": "Indonesia",
+          "city": "Tangerang",
+          "isPopular": false
+        },
+        {
+          "_id": "category2_2",
+          "name": "Podo Wae",
+          "imageUrl": "/images/category6.jpg",
+          "country": "Indonesia",
+          "city": "Madiun",
+          "isPopular": false
+        },
+        {
+          "_id": "category2_3",
+          "name": "Silver Rain",
+          "imageUrl": "/images/category7.jpg",
+          "country": "Indonesia",
+          "city": "Bandung",
+          "isPopular": false
+        },
+        {
+          "_id": "category2_4",
+          "name": "Cashville",
+          "imageUrl": "/images/category8.jpg",
+          "country": "Indonesia",
+          "city": "Kemang",
+          "isPopular": true
+        }
+      ]
+    },
+    {
+      "_id": "category3",
+      "name": "Apartments with kitchen set",
+      "items": [
+        {
+          "_id": "category3_1",
+          "name": "PS Wood",
+          "imageUrl": "/images/category9.jpg",
+          "country": "Indonesia",
+          "city": "Depok",
+          "isPopular": false
+        },
+        {
+          "_id": "category3_2",
+          "name": "One Five",
+          "imageUrl": "/images/category10.jpg",
+          "country": "Indonesia",
+          "city": "Jakarta",
+          "isPopular": false
+        },
+        {
+          "_id": "category3_3",
+          "name": "Minimal",
+          "imageUrl": "/images/category11.jpg",
+          "country": "Indonesia",
+          "city": "Bogor",
+          "isPopular": true
+        },
+        {
+          "_id": "category3_4",
+          "name": "Stays Home",
+          "imageUrl": "/images/category12.jpg",
+          "country": "Indonesia",
+          "city": "Wonosobo",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/testimonial.jpg",
+    "name": "Happy Family",
+    "rate": 4.55,
+    "content": "What a great trip with my family and I should try again next time soon ...",
+    "familyName": "Ical",
+    "familyOccupation": "Software Engineer"
+  }
+}
